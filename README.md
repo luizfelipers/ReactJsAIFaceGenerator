@@ -1,4 +1,4 @@
-#ReactJS- Gerador de faces falsas
+# ReactJS- Gerador de faces falsas
 
 This app is a simple single-page webapp that sends requests, at each button press, to Generated.Photos API.
 
