@@ -1,6 +1,8 @@
 # ReactJS- Gerador de faces falsas
 
 This app is a simple single-page webapp that sends requests, at each button press, to Generated.Photos API.
+The free-tier account only supports 50 monthly API requests, so it's not hosted publicly, but served as an exercise of making API requests with Axios.
+Styling to be improved!!!
 
 
 ![](https://user-images.githubusercontent.com/26651389/103284755-df0f5200-49ba-11eb-8d03-1bfa90c7053f.gif)
